@@ -1,0 +1,51 @@
+Active-HDL 13.0.376.8320 2023-10-27 00:43:17
+
+Elaboration top modules:
+Architecture                  simple_des_full_tb_arch(simple_des_full_tb)
+
+
+----------------------------------------------------------------------------------------------------------------
+Entity             | Architecture            | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------------------
+simple_des_full_tb | simple_des_full_tb_arch | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+simple_des_full    | simple_des_full         | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+init_perm          | init_perm_arch          | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rotate2            | rotate2_arch            | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+perm_choice2       | perm_choice2_arch       | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+key_mux            | key_mux_arch            | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+round_func         | round_func_arch         | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+xor_4              | xor_4_arch              | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+init_perm_inv      | init_perm_inv_arch      | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+perm_choice1       | perm_choice1_arch       | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rotate1            | rotate1_arch            | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rf_expand          | rf_expand_arch          | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rf_xor_8           | rf_xor_8_arch           | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rf_subst_1         | rf_subst_1_arch         | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rf_subst_2         | rf_subst_2_arch         | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+rf_permute         | rf_permute_arch         | lab1    |      | 13.0.376.8320 (Windows64) | -O3
+----------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------
+VHDL Package                                 | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------------------
+standard                                     | std     |      |                           | <unavailable>
+TEXTIO                                       | std     |      | 13.0.376.8320 (Windows64) |  -2019
+std_logic_1164                               | ieee    |      | 13.0.376.8320 (Windows64) |  -2008
+std_logic_arith                              | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_SIGNED                             | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED                           | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+----------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------
+Library                                      | Comment
+----------------------------------------------------------------------------------------------------------------
+ieee                                         | Standard IEEE packages library
+lab1                                         | None
+std                                          | Standard VHDL library
+----------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r simple_des_full_tb
+
+
+The performance of simulation is reduced. Version Student Edition

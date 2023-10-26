@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/my_designs/lab1_Habrukh_IKM720a/lab1/src/simple_des_full_tb.vhd" 
+MESSAGE "Compile Entity "simple_des_full_tb"" 
+MESSAGE "Compile Architecture "simple_des_full_tb_arch" of Entity "simple_des_full_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]" 

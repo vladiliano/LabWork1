@@ -1,0 +1,1 @@
+-w -erf E:/my_designs/lab1_Habrukh_IKM720a/lab1/compile/lab1.erf -d E:/my_designs/lab1_Habrukh_IKM720a/lab1/compile -s E:/my_designs/lab1_Habrukh_IKM720a/library.cfg -j E:/my_designs/lab1_Habrukh_IKM720a/lab1/projlib.cfg -work lab1 -O3 -e 100 -work lab1 -2002 E:/my_designs/lab1_Habrukh_IKM720a/lab1/src/simple_des_full_tb.vhd 

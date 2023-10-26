@@ -1,0 +1,66 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=lab1
+[Library]
+lab1=.\lab1\lab1.lib
+[$LibMap$]
+lab1=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[HierarchyViewer]
+HierarchyInformation=simple_des_full_tb|simple_des_full_tb_arch|0
+ShowHide=ShowTopLevel
+Selected=
+[Files]
+/wave.asdb=-1
+/xor_4.vhd=-1
+/init_perm.vhd=-1
+/init_perm_inv.vhd=-1
+/key_mux.vhd=-1
+/perm_choice1.vhd=-1
+/perm_choice2.vhd=-1
+/rf_expand.vhd=-1
+/rf_permute.vhd=-1
+/rf_subst_1.vhd=-1
+/rf_subst_2.vhd=-1
+/rf_xor_8.vhd=-1
+/rotate1.vhd=-1
+/rotate2.vhd=-1
+/round_func.vhd=-1
+/simple_des_full.bde=-1
+/simple_des_full_tb.vhd=-1
+/simple_des_full_tb.do=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+[Files.Data]
+.\src\wave.asdb=Accelerated Waveform File
+.\src\xor_4.vhd=VHDL Source Code
+.\src\init_perm.vhd=VHDL Source Code
+.\src\init_perm_inv.vhd=VHDL Source Code
+.\src\key_mux.vhd=VHDL Source Code
+.\src\perm_choice1.vhd=VHDL Source Code
+.\src\perm_choice2.vhd=VHDL Source Code
+.\src\rf_expand.vhd=VHDL Source Code
+.\src\rf_permute.vhd=VHDL Source Code
+.\src\rf_subst_1.vhd=VHDL Source Code
+.\src\rf_subst_2.vhd=VHDL Source Code
+.\src\rf_xor_8.vhd=VHDL Source Code
+.\src\rotate1.vhd=VHDL Source Code
+.\src\rotate2.vhd=VHDL Source Code
+.\src\round_func.vhd=VHDL Source Code
+.\src\simple_des_full.bde=Block Diagram
+.\src\simple_des_full_tb.vhd=VHDL Source Code
+.\src\simple_des_full_tb.do=Macro
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+[file_out:/simple_des_full.bde]
+/..\compile\simple_des_full.vhd=-1
